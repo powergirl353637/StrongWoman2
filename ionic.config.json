@@ -1,0 +1,7 @@
+{
+  "name": "StrongWoman",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
